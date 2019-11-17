@@ -4,7 +4,7 @@ This is a small wireless access point written for the ESP32 or ESP8266.  I creat
 
 This has also been tested on the Wemos D1 Mini without the OLED.  In this case, one may use the Serial debug to see the number of connected clients.
 
-This Wireless Access Point (WAP) will only emulate a WAP and not do any routing.  I needed this for testing IoT devices and testing workflows which included connecting to a WAP.  I could have driven to Microcenter and purchased a small 2.4Ghz wap in the time it took me to figure out the display, but that's why we roll our own, right?
+This Wireless Access Point (WAP) will only emulate a WAP and not do any routing.  I needed this for testing IoT devices and testing workflows which included connecting to a WAP.  I could have driven to Microcenter and purchased a small 2.4Ghz WAP in the time it took me to figure out the display, but that's why we roll our own, right?
 
 The WAP SSID and Password may be set in `support.h`:
 
